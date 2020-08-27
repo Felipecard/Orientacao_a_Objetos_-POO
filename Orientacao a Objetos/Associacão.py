@@ -34,7 +34,7 @@ class Maquina_escrever:
         print('Maquina está escrevendo...')
 
 
-# OBJ:
+#  OBJ:
 escritor = Escritor('Joãozinho')
 caneta = Caneta('BIC')
 maquina = Maquina_escrever()
